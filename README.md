@@ -40,34 +40,15 @@
 ![](https://github.com/maadpeal/PyBer_Analysis/blob/main/Resources/b-1.png)  (Image B-1)
 
 ## Summary
-    - tres recomendaciones comerciales para el director de la empresa para abordar cualquier 
-    disparidad entre los tipos de ciudades
-    - Si nos guiamos unicamente con lo que nos indica la data deberiamos recomendarle al CEO, 
-    que consiga la forma de disminuir las tarifas en las zonas suburban y rural para asi lograr 
-    aumentar los beneficios en estas dos tipos de ciudades.
-    - El problema con lo anterior es que probablemente las zonas rurales y suburbanas las distancia 
-    que se recorren son mucho mas largas que las de las zonas urbanas, es un punto importante a tomar 
-    en cuenta.
-    - Otro factor puede ser que en esas zonas los costos son mas elevados es por que los conductores 
-    no quieren ir a esas zonas, si ese es el caso se podria incentivar a los conductores con recompensas 
-    por atender esas zonas de dificil acceso y de esta manera crear la costumbre en los clientes que para 
-    esas zonas tambien el servicio los cubre.
-    - Otra medida que se podria implementar si es el caso, es crear programas de recomendacion entre los 
-    usuarios con viajes gratis a quienes lo compartan con sus contactos, esto aumentaria la demanda del 
-    servicio en estas zonas de dificil acceso.
-    - Pero para determinar verdaderamente que tipo de estrategia se puede ajustar mejor al caso de estudio 
-    es buscar mas data que pueda dar validez o desmentir las hipotesis que estamos planteando.
-    - 
     - If we are guided solely by what the data indicates, we should recommend to the CEO that he find a way 
     to reduce rates in suburban and rural areas in order to increase profits in these two types of cities.
     - The problem with the above is that probably in rural and suburban areas the distance traveled is much 
-    longer than in urban areas, it is an important point to take into account.
+    longer than in urban areas, which is an important point to consider.
     - Another factor may be that costs are higher in these areas because drivers do not want to go to those 
     areas. If that is the case, drivers could be incentivized with rewards for attending those areas that are 
-    difficult to access and thus create the custom in the clients that for those zones also the service covers 
-    them.
-    - Another measure that could be implemented if this is the case, is to create recommendation programs among 
+    difficult to access. This would allow us to give customers the security that they can count on the service in those areas.
+    - Another measure that could be implemented is to create recommendation programs among 
     users with free trips to those who share it with their contacts, this would increase the demand for the service 
     in these areas of difficult access.
-    - But to truly determine what type of strategy can best be adjusted to the case study, it is necessary to look 
+    - But to truly determine what type of strategy can best be adjusted to this case, it is necessary to look 
     for more data that can validate or refute the hypotheses that we are proposing.
