@@ -1,10 +1,6 @@
 # PyBer_Analysis
 
 ## Overview
-    - Se requiere explorar la gran cantidad de data y mostrar la informacion de manera grafica 
-    para asi mejorar la comprension de la misma y esto nos ayudara a reconocer como mejorar el 
-    servicio compartido de viajes y conocer la affordability para vencindarios desantendidos.
-
     - It is required to explore the large amount of data and display the information graphically 
     in order to improve its understanding and this will help us to recognize how to improve the 
     shared ride service and know the affordability for neglected neighborhoods.
@@ -14,7 +10,7 @@
     above suburban, and then, finally, those that have the best performance in rates are those 
     that are urban (image A-1).
 
-![]()  (Image A-1)
+![](https://github.com/maadpeal/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)  (Image A-1)
 
 #### Total Rides
     - The total number of rural trips are 125 (image B-1)
@@ -41,7 +37,7 @@
     - The Average Fare per Driver for suburban cities is $39.50 (image B-1)
     - The Average Fare per Driver for urban cities is $16.57 (image B-1)
 
-![]()  (Image B-1)
+![](https://github.com/maadpeal/PyBer_Analysis/blob/main/Resources/b-1.png)  (Image B-1)
 
 ## Summary
     - tres recomendaciones comerciales para el director de la empresa para abordar cualquier 
